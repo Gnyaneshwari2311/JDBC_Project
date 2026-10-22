@@ -1,4 +1,4 @@
-package banking;
+package bankingManagementSystem;
 
 
 import java.sql.Connection;
